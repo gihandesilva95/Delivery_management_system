@@ -1,0 +1,44 @@
+
+.shipping-form {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.shipping-form form {
+  display: grid;
+  gap: 15px;
+}
+
+.shipping-form label {
+  font-weight: bold;
+}
+
+.shipping-form input,
+.shipping-form select,
+.shipping-form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.shipping-form button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.shipping-form button:hover {
+  background-color: #0056b3;
+}
+
+.delivery-list {
+  padding: 20px;
+}
+table {
+  width: 100%;
+}
