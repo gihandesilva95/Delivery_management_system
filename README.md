@@ -1,7 +1,5 @@
 ## Delivery Management System
 
-
-**Project Introduction**
 A simple Delivery management application built with Laravel 12, Vue.js 3.5, and MySQL.
 
 ### **Prerequisites**
